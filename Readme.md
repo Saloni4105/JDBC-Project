@@ -22,6 +22,7 @@
 * **seat**
 * **booking**
 
+## Screenshots
 ![Screenshot](images/jdbc1.png)
 ![Screenshot](images/jdbc2.png)
 
